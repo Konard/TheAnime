@@ -1,2 +1,2 @@
 # TheAnime
-An attempt to create first open-source anime series.
+An attempt to create an open-source anime series.
